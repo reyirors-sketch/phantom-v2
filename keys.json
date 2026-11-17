@@ -1,0 +1,9 @@
+{
+  "adminPassword": "ADMIN1234",
+  "keys": [
+    {
+      "key": "PHANTOM-VIP-2026",
+      "status": "active"
+    }
+  ]
+}
